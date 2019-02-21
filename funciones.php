@@ -89,8 +89,7 @@
                return 0;
             }
          }
-      // *********************************
-         
+      // *****************************
       // *******REGISTRO DE EVENTOS*******
          function registraEvent($titulo, $descripcion, $temp, $tipo, $fecha) {
                global $mysqli;
